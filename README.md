@@ -1,16 +1,12 @@
-<h1>Jogo do número secreto</h1>
+![Logo-Git-e-GitHub](https://github.com/Fabio-Rodrigues-Dev/jogo-do-numero-secreto/assets/158431227/a56ae063-3c7d-4ea5-8303-8e6fc7a87198)
+<h1> Git e GitHub: compartilhando e colaborando em projetos </h1>
+:beginner: Projeto com objetivo educacional :beginner:
 
-<h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+## Descrição do Projeto:
+O objetivo desse repositório e aprender sobre as ferramentas para compartilhamento e para colaboração de código, que é o ***GIT e GITHUB***, para isso eu usei como exemplo o Jogo do Número Secreto.
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+[Mas se o seu obejtivo é saber mais sobre o Jogo do Número do Secreto...](https://github.com/Fabio-Rodrigues-Dev/jogo-do-numero-secreto)
 
-# Time
+## Autor: Fábio Rodrigues
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
-| :---: | :---: |
+![foto_perfil2](https://github.com/Fabio-Rodrigues-Dev/jogo-do-numero-secreto/assets/158431227/877304a6-d316-44c3-abc0-04955d9e0c2c)
